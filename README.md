@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmY0OXh6bXFwbXN0NzU4ZDQydjZnNXBxemtqMmczM2M5NWc1a28xcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
 <!--
 **XitlaliValenzo/XitlaliValenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
