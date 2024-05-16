@@ -4,11 +4,13 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmY0OXh6bXFwbXN0NzU4ZDQydjZnNXBxemtqMmczM2M5NWc1a28xcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" align="left" width='200px' height='' padding-right: 50px>
 <br>
 <div padding-left:50px> 
-- 👩‍💻 Nombre: Maria Xitlali Valenzo Serna
-- 📚 Estatus: Estudiante universitaria de Desarrollo de Software
-- 💼 Actualmente trabajando en: IPTE Soluciones
-- 🌎 Vivo en: México
-- 🎶 Artista fav para escuchar mientras programo: Billie Eilish
+	<ul>
+		<li>👩‍💻 Nombre: Maria Xitlali Valenzo Serna</li>
+		<li>📚 Estatus: Estudiante universitaria de Desarrollo de Software</li>
+		<li>💼 Actualmente trabajando en: IPTE Soluciones</li>
+		<li>🌎 Vivo en: México</li>
+		<li>🎶 Artista fav para escuchar mientras programo: Billie Eilish</li>
+	</ul>
 </div>
 
 <h2>Contacto</h2>
