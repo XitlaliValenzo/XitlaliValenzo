@@ -1,7 +1,7 @@
 <img src="img/banner.png">
 
 <h1>Hi there 👋</h1>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmY0OXh6bXFwbXN0NzU4ZDQydjZnNXBxemtqMmczM2M5NWc1a28xcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" align="left" width='200px' height='' style='padding-right: 50px'>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmY0OXh6bXFwbXN0NzU4ZDQydjZnNXBxemtqMmczM2M5NWc1a28xcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" align="left" width='200px' height='' padding-right: 50px>
 <br>
 
 - 👩‍💻 Nombre: Maria Xitlali Valenzo Serna
