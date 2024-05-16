@@ -10,7 +10,6 @@
 - 🌎 Vivo en: México
 - 🎶 Artista fav para escuchar mientras programo: Billie Eilish
 
-<br>
 <h2>Contacto</h2>
   <a href="mailto:ma.xitlalivs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/xitlali-valenzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
