@@ -5,7 +5,6 @@
 	<ul>
 		<li>👩‍💻 Nombre: Maria Xitlali Valenzo Serna</li>
 		<li>📚 Estatus: Estudiante universitaria de Desarrollo de Software</li>
-		<li>💼 Actualmente trabajando en: IPTE Soluciones</li>
 		<li>🌎 Vivo en: México</li>
 		<li>🎶 Artista fav para escuchar mientras programo: Billie Eilish</li>
 	</ul>
